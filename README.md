@@ -13,3 +13,8 @@
     D. hamcrest
     E. espresso core
     F. uiatomator
+8. Create TestDialogTest
+    A. @RunWith AnroidJUnit4
+    B. @Rule ActivityTestRule
+    C. add test isTestDialogVisible
+    D. add testInstrumentationRunner
